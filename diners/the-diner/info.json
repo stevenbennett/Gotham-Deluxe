@@ -1,0 +1,35 @@
+{
+  "info":{
+    "name": "The Diner",
+    "title": "The<br>Diner",
+    "updated" : "September 12, 2015",
+    "address": "44 9th Ave",
+    "zip": "10011",
+    "city": "New York",
+    "borough" : "Manhattan",
+    "state": "NY",
+    "yelp": "http://www.yelp.com/biz/the-diner-new-york",
+    "neighborhood": "Meatpacking District",
+    "hours": "Mon 8am-2am<br>Tue 8am-3am<br>Wed 8am-5am<br>Thu 8am-5am<br>Fri 8am-5:30am<br>Sat 10am-6pm<br>Sun 10am-2am",
+    "coordinates": "40.740982, -74.004917",
+    "lat": "40.740982",
+    "long": "-74.004917",
+    "date_added": "SEPT 12, 2015",
+    "blurb": "A mix of a classic diner atmosphere and modern metropolitan style, The Diner is a late-night favorite of the bustling Meatpacking Distrcit",
+    "intro": "The Diner is a popular and accessible diner located in the middle of the Meatpacking District. Crowds of locals and tourists frequent the area, and you’ll find a healthy mix of both at The Diner. The size, menu, and hours are perfect for this sort of area, there’s lots of indoor and outdoor seating, the menu is appropriately big and varied, and the hours are well thought out. It sounds like a perfect combination of quintessential diners elements, but for a place that calls itself ‘The Diner’ it’s far from perfect, and far from what I would consider the quintessential diner."
+  },
+
+  "review": {
+    "rating": "★★★☆☆",
+    "rating_text": "Three Stars",
+    "good": [
+      "Great for comfort food",
+      "Great hours",
+      "Lively neighborhood"
+    ],
+    "not_good": [
+      "Mediocre atmosphere",
+      "Staff isn't friendly"
+    ]
+  }
+}
