@@ -460,11 +460,11 @@ p::selection,h1::selection,h2::selection {
     display: block;
     position: relative;
     width: 98%;
-    max-width: 1250px;
+    max-width: 1150px;
     margin: 0 auto;
     height: auto;
     overflow: hidden;
-    padding-bottom: 60px;
+    padding-bottom: 150px;
     margin-top: 40px; 
     text-decoration: none;
 }
@@ -478,16 +478,16 @@ p::selection,h1::selection,h2::selection {
 .dinercard-container:after {
     content: "";
     width: 100%;
-    height: 80px;
+    height: 60px;
     display: block;
     bottom: -30px;
     position: relative;
     z-index: -1;
     opacity: 1;
-    border-bottom: 8px solid black;
+    border-bottom: 4px solid black;
     background-image: url('/images/dot.png');
     background-repeat: repeat;
-    background-size: 4px 4px;
+    background-size: 5px 5px;
 }
 
 .dinercard-container:hover {
@@ -720,7 +720,7 @@ p::selection,h1::selection,h2::selection {
 .hero:before {
     background-image: url('/images/dot.png');
     background-repeat: repeat;
-    background-size: 4px 4px;
+    background-size: 5px 5px;
     content: "";
     width: 100%;
     margin: 0 auto;
@@ -824,7 +824,7 @@ p::selection,h1::selection,h2::selection {
     margin: 0 auto 20px auto;
     bottom: inherit;
     text-align: center;
-    max-width: 600px;
+    max-width: 400px;
 }
 
 .share-label {
@@ -873,12 +873,12 @@ p::selection,h1::selection,h2::selection {
     position: relative;
     padding: 16px 0 14px 0;
     opacity: .95;
-    width: 48%;
+    width: 100%;
     float: left;
-    color: white;
+    color: black;
     text-align: left;
     text-align: center;
-    border-right: 5px solid white;
+    border: 3px solid black;
 }
 
 
@@ -960,7 +960,7 @@ p::selection,h1::selection,h2::selection {
 }
 
 .end .twitter{
-    background-color: black;
+
 }
 
 .end .facebook {
@@ -968,7 +968,9 @@ p::selection,h1::selection,h2::selection {
 }
 
 .end .twitter:hover{
-    background-color: #00aced;
+    background-color: black;
+    color: white;
+    opacity: 1;
 }
 
 .end .facebook:hover{
@@ -985,18 +987,21 @@ p::selection,h1::selection,h2::selection {
     display: block;
     position: relative;
     overflow: hidden;
-    background-image: url('/images/dot.png');
-    background-repeat: repeat;
-    background-size: 4px 4px;
     padding-left: 18px;
     padding-bottom: 20px;
     border-bottom: 2px solid black;
+    background-image: url('/images/dot.png');
+    background-repeat: repeat;
+    background-size: 5px 5px;
 
 }
 
 
 .infocard {
+    background-color: white;
     text-transform: capitalize;
+    padding-bottom: 1px;
+    padding-left: 10px;
     position: relative;
     display: block;
     /*border: 1px solid lightgray;*/
@@ -1081,7 +1086,7 @@ p::selection,h1::selection,h2::selection {
     padding: 0;
     font-family: "Gentium";
     font-weight: 100;
-    font-size: .9em;
+    font-size: .8em;
     line-height: 1.4em;
 }
 
@@ -1827,6 +1832,16 @@ img {
     display: inline-block;
 }
 
+.otherdiners .dinercard-container {
+    padding-bottom: 100px;
+
+}
+
+.otherdiners .dinercard-container:after{
+    bottom:-20px;
+}
+
+
 
 
 /*  _________FOOTER_________  */
@@ -2093,9 +2108,6 @@ img {
     min-width: 100%;
     margin-bottom: 30px;
     padding-bottom: 20px;
-    background-image: url('/images/dot.png');
-    background-repeat: repeat;
-    background-size: 4px 4px;
 }
 
 
@@ -2163,7 +2175,14 @@ img {
     margin-top: -310px;
 }
 
+.info-holder .section-detail-content {
+    background-color: white;
+    padding: 10px 0 10px 10px;
+}
 
+.otherdiners .dinercard-info-inner-right-bottom {
+    min-height: 0px;
+}
 
 @media only screen and (min-width: 0px) and (max-width: 600px){
 
@@ -2230,7 +2249,6 @@ p {
     margin-top: 5px;
     padding: 10px 15px 20px 15px;
 }
-
 
 .section {
     width: 92%;
