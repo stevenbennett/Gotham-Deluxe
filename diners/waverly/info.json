@@ -1,0 +1,37 @@
+{
+  "info":{
+    "name": "Waverly",
+    "title": "Waverly",
+    "address": "385 6th Ave",
+    "updated" : "May 24, 2015",
+    "zip": "10014",
+    "city": "New York",
+    "borough" : "Manhattan",
+    "state": "NY",
+    "yelp": "http://www.yelp.com/biz/waverly-new-york-2",
+    "neighborhood": "Waverly Place",
+    "hours": "Twenty-Four Seven",
+    "coordinates": "40.733124, -74.000180,",
+    "lat": "40.733124,",
+    "long": "-74.000180",
+    "date_added": "June 20, 2015",
+    "blurb": "Waverly is a neighborhood staple that never closes, and its massive menu has everything you're looking for in a diner and a little more.",
+    "intro": "Just around the corner from Washington Square is this unassuming 24/7 diner with a couple of surprises. Waverly, or Waverly Restaurant, is a traditional American diner with a menu that has a noticeably Greek influence. It's a twenty-four seven diner that seems to be a late night favorite for this neighborhood. It’s also one of the cleanest and strangest diners I’ve ever been to."
+  },
+
+
+
+  "review": {
+    "rating": "★★★☆☆",
+    "rating_text": "Three Stars",
+    "good": [
+      "Really clean and comfortable",
+      "Fun staff",
+      "Open twenty four hours"
+    ],
+    "not_good": [
+      "Meal wasn't very good",
+      "Pretty expensive"
+    ]
+  }
+}

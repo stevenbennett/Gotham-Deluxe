@@ -1,0 +1,36 @@
+{
+  "info":{
+    "name": "Cup and Saucer",
+    "title" : "Cup &#38;<br>Saucer",
+    "address": "89 Canal Street",
+    "zip": "10002",
+    "city": "New York",
+    "borough" : "Manhattan",
+    "state": "NY",
+    "yelp": "http://www.yelp.com/biz/cup-and-saucer-new-york",
+    "neighborhood": "Chinatown",
+    "hours": "Everyday from 6am-7pm",
+    "coordinates": "-73.993499, 40.715355",
+    "lat": "40.715355",
+    "long": "-73.993499",
+    "date_added": "May 30, 2015",
+    "blurb": "Cup and Saucer is a tiny place on the east side of Chinatown with good breakfast specials and friendly staff.",
+    "intro": "Cup and Saucer is in one of my favorite parts of Chinatown, easily one of my favorite neighborhoods in New York. It’s far enough outside of the mobs of tourists and souvenir shops that tend to populate this area lately; instead it’s filled with shops and restaurants that are more practical and people who are more local. Overall what I like about this area is that it feels genuine and authentic. Just the fact that Cup and Saucer is here gives it a lot of potential, but also a lot to live up to. It opens early at 6am with an array of good breakfast specials, but closes a little too early to be a reliable dinner spot (7pm). The friendly, hard-working staff combined with a filling $5 breakfast makes this decidedly AM oriented diner a highlight of an already terrific neighborhood."
+  },
+
+
+
+  "review": {
+    "rating": "★★★★☆",
+    "rating_text": "Four Stars",
+    "good": [
+      "Cheap, tasty breakfast special",
+      "Friendly staff",
+      "Chinatown"
+    ],
+    "not_good": [
+      "Very little legroom at the bar",
+      "Closes early (7pm)"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+@import url("//hello.myfonts.net/count/2ea5b5");
+
+@font-face {font-family: 'LoftStd';src: url('fonts/2EA5B5_0_0.eot');src: url('fonts/2EA5B5_0_0.eot?#iefix') format('embedded-opentype'),url('fonts/2EA5B5_0_0.woff2') format('woff2'),url('fonts/2EA5B5_0_0.woff') format('woff'),url('fonts/2EA5B5_0_0.ttf') format('truetype');}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('fonts/Montserrat-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Gentium';
+    src: url('fonts/GenBasR.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Gentium-Bold';
+    src: url('fonts/GenBasB.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+
+ 
+  

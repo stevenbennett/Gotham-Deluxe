@@ -1,0 +1,37 @@
+{
+  "info":{
+    "name": "Joe Junior",
+    "title": "Joe<br>Junior",
+    "address": "385 6th Ave",
+    "updated" : "February 22, 2015",
+    "zip": "10003",
+    "city": "New York",
+    "borough" : "Manhattan",
+    "state": "NY",
+    "yelp": "http://www.yelp.com/biz/joe-jr-restaurant-new-york?osq=joe+junior",
+    "neighborhood": "Gramercy",
+    "hours": "Everyday from 6am-11pm",
+    "coordinates": "-73.985964, 40.734647",
+    "lat": "40.734647",
+    "long": "-73.985964",
+    "date_added": "June 13, 2015",
+    "blurb": "Famous for it's best-in-class burger, Joe Junior is a classic American diner a few blocks from Union Square.",
+    "intro": "Many argue that Joe Junior makes the best burger in New York, and it’s what originally put Joe Junior on my radar. But it takes a lot more than a single signature dish to go from a decent restaurant to your favorite diner. Unfortunately I haven’t had the opportunity to try Joe Juniors legendary burger, and it would be unfair to call this review complete with such a major piece missing. So consider my opinion partially incomplete until I return to try out their burger. Fortunately for Joe Junior, they have more going for them than just burger-hype."
+  },
+
+
+
+  "review": {
+    "rating": "★★★☆☆",
+    "rating_text": "Three Stars",
+    "good": [
+      "Classic diner vibe",
+      "Good, fast service",
+      "Incredible Burger?"
+    ],
+    "not_good": [
+      "Staff could be friendlier",
+      "Location isn't very interesting"
+    ]
+  }
+}

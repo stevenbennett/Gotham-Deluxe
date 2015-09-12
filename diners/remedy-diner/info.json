@@ -1,0 +1,36 @@
+{
+  "info":{
+    "name": "Remedy Diner",
+    "title": "Remedy Diner",
+    "address": "245 E Houston St",
+    "updated" : "July 11, 2015",
+    "zip": "10002",
+    "city": "New York",
+    "borough" : "Manhattan",
+    "state": "NY",
+    "yelp": "http://www.yelp.com/biz/remedy-diner-new-york",
+    "neighborhood": "Lower East Side",
+    "hours": "Twenty-Four Seven",
+    "coordinates": "40.721713, -73.985470",
+    "lat": "40.721713",
+    "long": "-73.985470",
+    "date_added": "July 11, 2015",
+    "blurb": "A large, elaborate, twenty-four hour diner on the Lower East side.",
+    "intro": "Way over on the east side of Houston there’s this great little (actually pretty huge) diner called Remedy Diner. It’s a twenty-four hour place with a lot of the trappings of traditional American diners; elaborate leather booths, a sprawling bar, and a massive menu. Even though Remedy has a lot of the obvious diner-tropes, there’s one thing about Remedy that make it more memorable than other diners: it’s attention to detail. There are some obvious differentiating features that you’ll notice right away like the excessively dineresque signage, and the impressive circular leather booths tucked away in the corner, but the most memorable aspect of my visit were more subtle details that weren't so easy to spot."
+  },
+
+
+
+  "review": {
+    "rating": "★★★★☆",
+    "rating_text": "Four Stars",
+    "good": [
+      "Open 24/7",
+      "Food is way above average",
+      "Really nice, comfortable interior"
+    ],
+    "not_good": [
+      "A little slow"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "info":{
+    "name": "Landmark",
+    "title": "Landmark",
+    "updated" : "July 11, 2015",
+    "address": "158 Grand St",
+    "zip": "10013",
+    "city": "New York",
+    "borough" : "Manhattan",
+    "state": "NY",
+    "yelp": "http://www.yelp.com/biz/landmark-coffee-shop-new-york",
+    "neighborhood": "SoHo",
+    "hours": "Everyday 6am-6pm",
+    "coordinates": "40.720026, -73.998681",
+    "lat": "40.720026",
+    "long": "-73.998681",
+    "date_added": "July 11, 2015",
+    "blurb": "A quick and dirty coffee shop at the intersection of SoHo, Chinatown, and Little Italy.",
+    "intro": "Landmark is a no-nonsense diner at the intersection of three of Lower Manhattan neighborhoods: SoHo, Chinatown, and Little Italy. It doesn’t draw too much inspiration (luckily) from SoHo or Little Italy, but it has a lot of the same features of places like <a href='/diners/cup-and-saucer'>Cup and Saucer</a>, which makes it feel more like Chinatown. What that means is that the prices are low, the service is super-humanly fast, and the staff is friendly (even if they can be somewhat blunt). This place has been around for a while and it might seem a litte worn out at first, but you’ll quickly see that many things that seem like oversights (the mismatched chairs, crooked picture frames, worn out barstools) are really just ways to focus on service, and Landmark’s might be the best I’ve seen."
+  },
+
+  "review": {
+    "rating": "★★★★☆",
+    "rating_text": "Four Stars",
+    "good": [
+      "Insanely fast, friendly service",
+      "Really cheap",
+      "Good neighborhood(s)"
+    ],
+    "not_good": [
+      "Closes way too early (6pm)"
+    ]
+  }
+}
