@@ -37,15 +37,7 @@
             include("elements/dinercard-home.php");
             ?> 
         </div>
-    
-    <div class="center">
-        <h1>Up Next:</h1>
-        <ul>
-            <li><a target="blank" href="https://www.google.com/maps/place/The+Diner/@40.7417865,-74.0060475,15.74z/data=!4m2!3m1!1s0x0000000000000000:0x0a6f4c4e05de056c">The Diner</a></li>
-            <li><a target="blank" href="https://www.google.com/maps/place/Square+Diner/@40.718469,-74.0072485,17z/data=!3m1!4b1!4m2!3m1!1s0x89c25a1fe53370f1:0x8bc4aea00d7970fc">Square Diner</a></li>
-            <li><a target="blank" href="https://twitter.com/gothamdeluxe" class="red">Suggest a Diner</a></li>
-        </ul>
-    </div>    
+       
     </div>
 
 
