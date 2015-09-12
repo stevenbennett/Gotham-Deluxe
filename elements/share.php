@@ -7,8 +7,6 @@
 			</div>
 			<a class="share-button twitter" href="https://twitter.com/intent/tweet?text=<%= data.info.name %> on @gothamdeluxe&url=http://www.gothamdeluxe.com/diners/<%= diner %>" target="_blank">
 			<span><p>Tweet</p></span></a>
-			<a class="share-button facebook" target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http://www.gothamdeluxe.com/diners/<%= diner %>">
-			<span><p>Share</p></span></a>
 		</div>
 	</div>
 
