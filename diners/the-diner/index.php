@@ -13,7 +13,7 @@
 
 <?php $path = $_SERVER['DOCUMENT_ROOT']; ?> 
 
-<title>La Bonbonniere | Gotham Deluxe</title>
+<title>The Diner | Gotham Deluxe</title>
 
 </head>
 
