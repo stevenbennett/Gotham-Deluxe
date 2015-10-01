@@ -5,23 +5,16 @@
             
             <div class="dinercard-container">
                 <a href="/diners/<%= diner %>">
-                    <div class="dinercard-info-inner-left">
-                        <img src='/diners/<%= diner %>/images/<%= diner %>.jpg'>
-                    </div>
-                    <div class="dinercard-info-inner-right">
-                        <div class="dinercard-info-inner-right-top">
-                        <img src='/diners/<%= diner %>/images/<%= diner %>-cover-interior.jpg'>
-                        </div> 
-                        <div class="dinercard-info-inner-right-bottom">
-                        <h2><%= data.info.neighborhood %></h2>
+                    <div class="dinercard-info-inner" style="background-image: url('/diners/<%= diner %>/images/<%= diner %>.jpg');">
+
+                        <div class="dinercard-info-inner-title">
                         <h1><%= data.info.name %></h1>
-                        <span>—</span>
                         <p><%= data.info.blurb %></p>
-                         
-                        </div>    
-                    </div>     
+                        </div>
+                    </div>  
                 </a>       
             </div>
+
 
             
 </script>

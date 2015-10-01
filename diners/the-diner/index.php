@@ -38,6 +38,9 @@
 
             <div class="section">
                 <div class="section-interior">
+                <div class="section-image full">
+                        <img src='images/exterior.jpg'>
+                    </div>
                     <div class="section-image half">
                         <img src='images/outside-sign.jpg'>
                     </div>

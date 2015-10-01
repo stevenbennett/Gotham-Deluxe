@@ -24,7 +24,7 @@
     <div class="home-header">
         <div class="home-title">
         <h1>GOTHAM DELUXE</h1>
-        <h2>Diners of New York</h2>
+        <h2>Dedicated to finding the best diners in New York city, Gotham Deluxe aims to celebrate the comfort and convenince of the classic American diner. In contrast to the rushed, crowded, unforgiving city, a good diner is a place where a New Yorker can sit in a comfortable booth and recharge.</h2>
         </div>
     </div>
 

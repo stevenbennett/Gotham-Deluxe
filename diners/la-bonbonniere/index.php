@@ -39,10 +39,10 @@
             <div class="section">
                 <div class="section-interior">
                     <div class="section-image full">
-                        <img src='images/menu.jpg'>
+                        <img src='images/outside.jpg'>
                     </div>
                     <div class="section-image half">
-                        <img src='images/outside2.jpg'>
+                        <img src='images/menu-coffee.jpg'>
                     </div>
                     <div class="section-image half">
                         <img src='images/door2.jpg'>
@@ -50,9 +50,6 @@
 
                     <div class="section-image full">
                         <img src='images/inside.jpg'>
-                    </div>
-                    <div class="section-image full">
-                        <img src='images/menu-coffee.jpg'>
                     </div>
                 </div>
             </div>

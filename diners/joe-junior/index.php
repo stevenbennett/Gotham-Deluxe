@@ -37,7 +37,7 @@
         <div class="section">
             <div class="section-interior">
                 <div class="section-image full">
-                        <img src='images/cash.jpg'>
+                        <img src='images/exterior.jpg'>
                 </div>
             </div>
         </div>  

@@ -37,7 +37,7 @@
             <div class="section">
                 <div class="section-interior">
                     <div class="section-image full">
-                        <img src='images/menu-1.jpg'>
+                        <img src='images/exterior.jpg'>
                     </div>
                     <div class="section-image half">
                         <img src='images/barstools.jpg'>
@@ -59,7 +59,7 @@
                         <p>This is a no-frills experience from the moment you walk in the door. Landmarks interior is aged and minimal (for a diner). Nearly everything you touch is a bit rough around the edges, and the floor could use some sweeping, but the vibrant blue tables are kept bright and clean even if the edges are a bit worn out. There’s a pattern of rough edges at Landmark, which isn't a problem. I kind of like them. They remind me of <a href="http://designmind.frogdesign.com/2011/09/aged-perfection/" target="_blank" class="external">this article</a> that talks about things that become better, or at least more attractive, as they age and gather wear. I really enjoy Landmark’s aged interior, it’s in a different sort of class than <a href="/diners/waverly">Waverly</a> or <a href="/diners/remedy-diner">Remedy</a> who have sparkly clean interiors. Landmarks beats them on authenticity, and when it comes to speed and efficiency, Landmark runs circles around the others.</p>
                     </div>
                     <div class="section-image full">
-                        <img src='images/interior.jpg'>
+                        <img src='images/menu-1.jpg'>
                     </div>
                 </div>
             </div> 

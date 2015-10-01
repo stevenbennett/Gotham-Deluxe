@@ -56,19 +56,6 @@
                 <div class="section-text alone">
                     <p>The first of these details I picked up on was a smattering of art-deco inspired (I think…) features of Remedy’s interior. The fixture above the bar is just decoration but it really looks great, it has these vertical stainless steel bands that make you feel like you’re somewhere in or under the Chrysler building. Even the ceiling fans have this tapered, faceted design that makes it seems like they're striving for the same mid-century look. There are lots of other little examples like this. The lighting on the walls is another good one, and you can’t really look anywhere without seeing some tasteful stainless steel accent. Combined, these little decorative details make for an interior that’s nostalgic and comfortable but feels nice and intentional.</p>
                 </div>
-            </div>
-        </div> 
-
-        <div class="section">
-            <div class="section-interior">
-                <div class="section-image full">
-                    <img src='images/booth.jpg'>
-                </div>
-            </div>
-        </div>
-
-        <div class="section">
-            <div class="section-interior">
                 
                 <div class="section-text alone">
                     <p>Another thing: the walls on one side that open completely to the outside. This isn’t so much of a detail, it was the first thing I noticed about Remedy after it’s flashy signage. They didn’t seem to have dedicated outdoor seating, but the indoor-outdoor seating next to the open wall was ridiculously pleasant.</p>
