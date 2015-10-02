@@ -1,0 +1,37 @@
+{
+  "info":{
+    "name": "Square Diner",
+    "title": "Square Diner",
+    "address": "33 Leonard St",
+    "updated" : "October 2, 2015",
+    "zip": "10013",
+    "city": "New York",
+    "borough" : "Manhattan",
+    "state": "NY",
+    "yelp": "http://www.yelp.com/biz/square-diner-new-york",
+    "neighborhood": "TriBeCa",
+    "hours": "Mon-Fri 6am-9pm<br>Sat-Sun 7:30am-4pm",
+    "coordinates": "40.718461, -74.007248",
+    "lat": "40.718461",
+    "long": "-74.007248",
+    "date_added": "October 1, 2015",
+    "blurb": "A standalone, nostalgic diner that stands out from the surrounding TriBeCa neighborhood.",
+    "intro": "Square Diner is one of the rare remaining standalone diners in New York, and it sits among a crowd of skyscrapers and warehouses in TriBeCa. I love the atmosphere of standalone diners, it’s like a little isolated experience, separated from the rest of the city. Square Diner has a lost to prove as so many other standalone diners are closing, it's trying really hard to be memorable, and I think sometimes it goes to far, but in the end it's a standalone worthy of its footprint."
+  },
+
+
+
+  "review": {
+    "rating": "★★★☆☆",
+    "rating_text": "Three Stars",
+    "good": [
+      "Rare, standalone diner",
+      "Food is sometimes above average",
+      "Fun experience"
+    ],
+    "not_good": [
+      "Decoration is too over the top",
+      "Hours aren't great"
+    ]
+  }
+}
