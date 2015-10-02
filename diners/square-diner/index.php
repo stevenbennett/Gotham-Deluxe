@@ -62,14 +62,14 @@
                     </div>
                 </div>
                 <div class="section-text">
-                    <p>Though small, it’s hard to miss this little diner, it’s outdoor seating spills out onto the sidewalk, and its bold, blue exterior make it easy to spot. In true standalone diner fashion, the shape of this  little restaurant is dictated by the extra space allotted by the neighboring buildings. Because of this, Square Diner is far from square, and you’ll find lots of little nooks throughout the interior. I would actually recommend checking out the restroom while you’re here because it’s pretty adorable and gives you an idea of the constraints these types of standalone restaurants have to work with.</p>
+                    <p>Though small, it’s hard to miss this  diner. Square Diner's outdoor seating spills out onto the sidewalk and its bold, blue exterior make it easy to spot. In true standalone diner fashion, the shape of this little restaurant is dictated complete;y by the extra space allotted by the neighboring buildings. Because of this, Square Diner is far from square, and inside you'll find lots of interestig little nooks that fill the alloted space. I would recommend checking out the restroom while you’re here because it’s pretty adorable and gives you an idea of the constraints these types of standalone restaurants have to work with.</p>
                 </div>
             
                  <div class="section-image reduced">
                             <img src='images/interior-depth.jpg'>
                     </div>
                     <div class="section-text alone">
-                    <p>As far as the interior decoration go, I think Square goes a little overboard. In some areas the  memorabilia on display is really cute and quirky and makes for a nice atmosphere, but in others it feels pretty forced. I really liked the area next to the bar (on the left when you walk in), mostly because there isn’t enough space for them to fit memorabilia. In some areas Square Diner feels more like some sort of boat themed restaurant than a diner, but the effect is mostly fun and charming.
+                    <p>As far as the interior decoration goes, I think Square goes a little overboard. In some areas the  memorabilia on display is  cute and quirky and results in a nice atmosphere, but in others it feels pretty forced. I really liked the area next to the bar (on the left when you walk in), mostly because there isn’t enough space for them to fit memorabilia. In some areas Square Diner feels more like some sort of boat themed restaurant than a diner, but the effect is mostly fun and charming.
 </p>
                 </div>
                 <div class="section-blockquote large">
@@ -86,7 +86,7 @@
                         <img src='images/food.jpg'>
                 </div>
                 <div class="section-text alone">
-                    <p>The food here is definitely satisfactory if you’re hunting for diner food. I wanted to test out their burger, but this one of four diners I had visited in 2 days and physically couldn’t eat a burger at the time. Instead I ordered the Gyro and it was insanely good. Way, way better then the Gyro at <a href="/diners/waverly"><span>Waverly</span></a>, and probably the best one I’ve ever had. Like I said before I wasn’t very hungry, but despite that I was really digging the gyro. I also got to try the belgian waffle and chicken sandwich, both of which were normal (good).</p>
+                    <p>The food here is definitely satisfactory if you’re hunting for diner food. I wanted to test out their burger, but this was one of four diners I had visited in two days and at the time I physically couldn’t eat another burger. Instead I ordered the gyro and it was insanely good. Way, way better then the Gyro at <a href="/diners/waverly"><span>Waverly</span></a>, and probably the best one I’ve ever had. Like I said before I wasn’t very hungry, but despite that I was really digging the gyro. I also got to try the belgian waffle and chicken sandwich, both of which were normal (good).</p>
                 </div>
                 <div class="section-image reduced">
                     <img src='images/gyro.jpg'>
@@ -113,7 +113,7 @@
         <div class="section">
                 <div class="section-interior">
                     <div class="section-blockquote large summary">
-                        <h1>I want Square Diner to be exceptional, just to keep it alive as a standalone diner. But unfortunately it’s only average. The atmosphere is forced and the food is satisfactory. There’s nothing special here to keep me coming back.</h1>
+                        <h1>I want Square Diner to be exceptional, if only to keep it alive as a standalone diner. Unfortunately it’s just average. The atmosphere is forced and the food is satisfactory. There’s nothing special here, but there's no reason not to go back.</h1>
                     </div>
                 </div>
             </div>
